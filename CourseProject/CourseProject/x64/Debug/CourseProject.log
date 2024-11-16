@@ -1,0 +1,3 @@
+﻿  CourseProject.cpp
+C:\Users\Stilly\Documents\Stelly\Uni\Програмиране\CourseProject\CourseProject\CourseProject.cpp(23,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CourseProject.vcxproj -> C:\Users\Stilly\Documents\Stelly\Uni\Програмиране\CourseProject\x64\Debug\CourseProject.exe
