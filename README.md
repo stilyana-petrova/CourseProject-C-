@@ -1,2 +1,2 @@
 # CourseProject-C-
-My course project from the programming course at the university - 1st year 
+My course project from the programming with C++ course at the university - 1st year 
